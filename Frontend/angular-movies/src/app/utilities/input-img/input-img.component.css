@@ -1,0 +1,9 @@
+button {
+    margin-bottom: 1rem;
+}
+
+img {
+    height: 300px;
+    /* width: 225px; */
+    width: auto;
+}
